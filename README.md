@@ -27,7 +27,6 @@ Base React app for my bros and sis
 - [`react`](https://www.npmjs.com/package/react) - React is a JavaScript library for creating user interfaces. For creating React components.
 - [`react-dom`](https://www.npmjs.com/package/react-dom) - This package serves as the entry point to the DOM and server renderers for React. 
 - [`react-router-dom`](https://www.npmjs.com/package/react-router-dom) - This package serves as DOM for React Router. 
-- [`react-hook-form`](https://www.npmjs.com/package/react-hook-form) - Forms in Reack. 
 
 ## Babel
 
